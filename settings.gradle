@@ -1,0 +1,2 @@
+rootProject.name = "Andr1.fragments"
+include ':app'
